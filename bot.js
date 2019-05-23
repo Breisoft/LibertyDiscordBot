@@ -299,4 +299,4 @@ async function collectThumbsDown(poll)
 
 
 
-client.login('NDkzOTI1OTIzMDg3ODQzMzM5.DosI0w.xNsWAPY-fpwgCfTvDh97O47ctA0');
+client.login('REDACTED');
